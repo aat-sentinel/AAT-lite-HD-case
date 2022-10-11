@@ -9,7 +9,9 @@ Requires ADDITIONAL components to the standard enclosure as supplied with Sentin
 - HDMI Male to HDMI Male mini 3m (for goggles)
 - HDZERO RX and suitable antennas
 
+Uses some 3D STL from standard Sentinel tracker 
+
 Caution:
-This was designed purely to meet a design spec which is focussed more on aesthetics than usability!
-This requires TBS (or other) CRSF sent to tracker over WiFi (See sentinel mavlink manual):
+- This was designed purely to meet a design spec which is focussed more on aesthetics than usability!
+- This requires TBS (or other) CRSF sent to tracker over WiFi (See sentinel mavlink manual):
 
