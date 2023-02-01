@@ -1,4 +1,5 @@
-# Sentinel AAT - HDZERO. A case variant to suit HDZERO.
+# Sentinel AAT - HD. 
+A case variant to suit HDZERO and CADDX which allows HDMI cable to route through the casing. This can terminate on the casein rear panel using an HDMI panel mount or throughthe base and into a display / HDMI switch or HDMI adapter to a 3m HDMI cable for goggles. 
 
 ![HDZERO tracker](https://user-images.githubusercontent.com/11336532/195096236-675fc430-cddf-4482-9855-8545b0c79a26.jpg)
 
