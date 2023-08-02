@@ -12,7 +12,6 @@ Requires ADDITIONAL components to the standard enclosure as supplied with Sentin
 
 Uses some 3D STL from standard Sentinel tracker 
 
-Caution:
-- This was designed purely to meet a design spec which is focussed more on aesthetics than usability!
+Special note:
 - This requires TBS (or other) CRSF sent to tracker over WiFi (See sentinel mavlink manual):
 
