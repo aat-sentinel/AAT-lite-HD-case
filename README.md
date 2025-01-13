@@ -15,6 +15,5 @@ Requires ADDITIONAL components to the standard enclosure as supplied with Sentin
 Uses some 3D STL from standard Sentinel tracker 
 
 Special note:
-- This requires TBS (or other) CRSF sent to tracker over WiFi (See sentinel mavlink manual):
-
-![walksnail](https://github.com/aat-sentinel/AAT-lite-HD-case/assets/11336532/5e4947ab-deb3-48b4-b39b-619a6b6c06ea)
+An improved pan servo may be needed for additional weight of HD units. In the options folder are STL and source for a variant that uses 2-6T sail winch servos which provides a very stable pan solution however requires a suitable sail winch servo. Kingmax SW22HV is recommend but untested.
+If using the 2-gT sail servo, print the servo gear at finest detail resolution typically less than 0.1mm resolution. It will need some manipulation to fit he servo spline.
